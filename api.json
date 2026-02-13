@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/lizard-man-scape-ore",
     "maintainers": [
       {
@@ -18,657 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "lizard-man-scape-ore",
     "name": "Lizard Man of Scape Ore Swamp",
-    "aliases": [
-      {
-        "name": "Lizard Man",
-        "region": "South Carolina, USA"
-      },
-      {
-        "name": "Bishopville Monster",
-        "region": "Bishopville, South Carolina"
-      },
-      {
-        "name": "Scape Ore Swamp Lizard Man",
-        "region": "Lee County, South Carolina"
-      }
-    ],
-    "category": "CRYPTID",
-    "subcategory": "Reptilian humanoid",
+    "aliases": [],
+    "category": "|_BROADER_REPTILIAN_HUMANOID_PHENOMENA_|",
+    "subcategory": "| Description | Status |",
     "tags": [
-      "reptilian",
-      "bipedal",
-      "humanoid",
-      "swamp-dwelling",
-      "south-carolina",
-      "nocturnal",
-      "aggressive"
+      "folklore",
+      "mythology"
     ],
-    "status": "historical",
+    "status": "documented",
     "description": {
-      "summary": "A bipedal reptilian humanoid cryptid reported primarily in the summer of 1988 near Bishopville, South Carolina. Famous for the Christopher Davis encounter where the creature allegedly attacked a teenager's car.",
-      "full": "The Lizard Man of Scape Ore Swamp is a reptilian humanoid cryptid that gained national attention in 1988 following a series of encounters near Bishopville, South Carolina. Described as approximately 7 feet tall with green scaly skin, red glowing eyes, and three-fingered hands with long claws, the creature reportedly attacked vehicles and left unusual three-toed footprints. The most famous incident involved 17-year-old Christopher Davis, who claimed the creature attacked his car while he was changing a tire. While the wave of sightings lasted primarily from June to August 1988, occasional reports continue to surface. The phenomenon represents a unique entry in North American cryptozoology as one of the few reptilian humanoid reports with physical evidence and multiple witnesses."
+      "summary": "The Lizard Man of Scape Ore Swamp is a reptilian humanoid cryptid that captured national attention during the summer of 1988 in Lee County, South Carolina.",
+      "full": "The Lizard Man of Scape Ore Swamp is a reptilian humanoid cryptid that captured national attention during the summer of 1988 in Lee County, South Carolina. Described as approximately 7 feet tall with green scaly skin, glowing red eyes, and three-fingered clawed hands, the creature was the subject of multiple encounters over a concentrated two-month period. The phenomenon began with 17-year-old Christopher Davis's dramatic account of his car being attacked by the creature while changing a tire at 2 AM near Scape Ore Swamp. This report, backed by physical evidence and a passed polygraph test, triggered a wave of sightings, damaged vehicles, and three-toed footprint discoveries that brought media attention and investigators from across the country. The Lizard Man represents a unique case in American cryptozoology as one of the few reptilian humanoid reports with documented physical evidence, multiple independent witnesses, and law enforcement involvement. While sightings have dramatically declined since the 1988 flap, the phenomenon remains an important cultural icon in Bishopville and a fascinating case study in concentrated cryptid activity."
     },
     "etymology": {
-      "origin": "Named for the location of primary sightings (Scape Ore Swamp) and reptilian appearance",
-      "meaning": "Descriptive name referring to the creature's lizard-like features and habitat",
-      "first_use": "1988"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "CRYPTID",
-      "type": "Humanoid",
-      "subtype": "Reptilian",
-      "variant": "North American"
+      "category": "|_BROADER_REPTILIAN_HUMANOID_PHENOMENA_|",
+      "type": "| Description | Status |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "loveland-frog",
-        "name": "Loveland Frog",
-        "relationship": "similar",
-        "description": "Bipedal frog-like creature from Ohio"
-      },
-      {
-        "id": "dover-demon",
-        "name": "Dover Demon",
-        "relationship": "similar",
-        "description": "Humanoid creature with reptilian features from Massachusetts"
-      },
-      {
-        "id": "reptilians",
-        "name": "Reptilian Humanoids",
-        "relationship": "category",
-        "description": "Broader category of reptilian humanoid phenomena"
-      },
-      {
-        "id": "flatwoods-monster",
-        "name": "Flatwoods Monster",
-        "relationship": "regional",
-        "description": "Another Southeastern U.S. humanoid cryptid"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 2.0,
-        "max": 2.2,
-        "unit": "meters",
-        "confidence": "medium"
-      },
-      "weight": {
-        "min": 90,
-        "max": 140,
-        "unit": "kilograms",
-        "confidence": "low"
-      },
-      "coloration": [
-        "dark green",
-        "brownish-green",
-        "black (in shadows)"
-      ],
-      "features": [
-        {
-          "feature": "Skin texture",
-          "description": "Scaly, reptilian skin similar to lizard or snake",
-          "frequency": "always"
-        },
-        {
-          "feature": "Eyes",
-          "description": "Red glowing eyes, often described as intense or menacing",
-          "frequency": "common"
-        },
-        {
-          "feature": "Hands",
-          "description": "Three-fingered hands with long black claws",
-          "frequency": "always"
-        },
-        {
-          "feature": "Feet",
-          "description": "Three-toed feet leaving distinctive tracks",
-          "frequency": "always"
-        },
-        {
-          "feature": "Build",
-          "description": "Muscular, athletic build with powerful legs",
-          "frequency": "common"
-        },
-        {
-          "feature": "Head",
-          "description": "Elongated or pointed head, humanoid but reptilian features",
-          "frequency": "common"
-        }
-      ],
-      "morphology": "Bipedal reptilian humanoid with muscular build. Arms proportionate to body. Described as moving with surprising speed and strength. No tail reported in most accounts."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Exceptional strength",
-        "description": "Reportedly able to damage car bodies and rip off side mirrors",
-        "frequency": "common",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "High speed",
-        "description": "Capable of running at speeds estimated 40+ mph",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Climbing",
-        "description": "Able to jump onto moving vehicles",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Swimming",
-        "description": "Natural affinity for aquatic environment",
-        "frequency": "presumed",
-        "evidence_level": "speculation"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "aggressive",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "swamps",
-        "wetlands",
-        "river areas",
-        "marshland"
-      ],
-      "diet": "Unknown, possibly carnivorous",
-      "patterns": [
-        "Attracted to vehicles and mechanical sounds",
-        "Aggressive toward humans who enter territory",
-        "Most active during warm summer months",
-        "Appears near roadways adjacent to swamp"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Primarily centered around Scape Ore Swamp near Bishopville in Lee County, South Carolina. Some reports from surrounding counties.",
-      "continents": ["North America"],
-      "countries": ["United States"],
-      "regions": [
-        "South Carolina",
-        "Lee County",
-        "Bishopville area",
-        "Scape Ore Swamp"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Scape Ore Swamp",
-        "location": {
-          "description": "Scape Ore Swamp near Bishopville",
-          "country": "United States",
-          "region": "South Carolina",
-          "locality": "Lee County",
-          "coordinates": {
-            "latitude": 34.2154,
-            "longitude": -80.2481,
-            "precision": "approximate"
-          }
-        },
-        "sighting_count": 25,
-        "peak_period": "June-August 1988",
-        "notes": "Primary location of all major 1988 encounters and physical evidence"
-      },
-      {
-        "name": "Browntown",
-        "location": {
-          "description": "Rural area near Bishopville",
-          "country": "United States",
-          "region": "South Carolina",
-          "locality": "Lee County",
-          "coordinates": {
-            "latitude": 34.2300,
-            "longitude": -80.2500,
-            "precision": "approximate"
-          }
-        },
-        "sighting_count": 8,
-        "peak_period": "Summer 1988",
-        "notes": "Several secondary reports from this rural community"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "1988-06-29",
-        "circa": false,
-        "source": "Christopher Davis encounter"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "June-August 1988",
-          "description": "Initial wave of sightings generating national media attention"
-        },
-        {
-          "period": "2008",
-          "description": "Brief resurgence in reports 20 years later"
-        },
-        {
-          "period": "2015",
-          "description": "Scattered modern reports with social media documentation"
-        }
-      ],
-      "seasonal_patterns": "Reports concentrated in warm summer months, particularly June-August"
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "No significant Indigenous or historical folklore directly matching the Lizard Man description. Represents a modern cryptid phenomenon with limited cultural precedent.",
-      "earliest_accounts": "First documented encounter June 29, 1988",
-      "folklore_connections": "Shares characteristics with global reptilian humanoid mythology, but appears to be a distinct modern phenomenon rather than traditional folklore."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1988-06-29",
-        "event": "Christopher Davis encounter",
-        "significance": "17-year-old reports creature attacking his car while changing tire at 2 AM. Launches Lizard Man phenomenon.",
-        "source": "Sheriff's department report, multiple news sources"
-      },
-      {
-        "date": "1988-07-14",
-        "event": "Car damage incidents",
-        "significance": "Multiple residents report damaged vehicles with scratches, side mirrors torn off",
-        "source": "Lee County Sheriff's Office reports"
-      },
-      {
-        "date": "1988-08",
-        "event": "Footprint discoveries",
-        "significance": "Three-toed footprints found near sighting locations, analyzed by authorities",
-        "source": "Physical evidence documented by law enforcement"
-      },
-      {
-        "date": "1988-08",
-        "event": "Airman sighting",
-        "significance": "Airman stationed at Shaw Air Force Base reports encounter",
-        "source": "Newspaper reports"
-      },
-      {
-        "date": "1988-09",
-        "event": "Sheriff announces hoax suspicion",
-        "significance": "Sheriff Liston Truesdale publicly doubts authenticity of some reports",
-        "source": "Press statements"
-      },
-      {
-        "date": "2008-02",
-        "event": "20-year anniversary reports",
-        "significance": "New sightings reported, renewed media interest",
-        "source": "Local news coverage"
-      },
-      {
-        "date": "2015-08",
-        "event": "Modern social media reports",
-        "significance": "Reports surface on social media with photos of damaged vehicles",
-        "source": "Facebook posts, news coverage"
-      }
-    ],
-    "modern_era": "The Lizard Man remains a cultural icon in Bishopville, with the town embracing the legend for tourism. A statue was erected, and annual events celebrate the phenomenon. While active sightings have decreased, the 1988 wave remains one of the most concentrated cryptid flaps in American history."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
-      "total_documented": 40,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 35,
-      "debunked": 5,
-      "date_range": {
-        "earliest": "1988-06-29",
-        "latest": "2015"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "lizardman-sighting-1988-davis",
-        "name": "Christopher Davis Encounter",
-        "date": {
-          "value": "1988-06-29",
-          "precision": "exact"
-        },
-        "location": {
-          "description": "Scape Ore Swamp Road near Bishopville",
-          "country": "United States",
-          "region": "South Carolina",
-          "locality": "Lee County",
-          "coordinates": {
-            "latitude": 34.2154,
-            "longitude": -80.2481,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Teenager/motorist"],
-          "credibility_factors": ["Sheriff's report filed", "Polygraph test passed", "Consistent testimony", "Physical evidence on vehicle"]
-        },
-        "description": "17-year-old Christopher Davis was driving home from work at 2 AM when he stopped to change a flat tire on a road near Scape Ore Swamp. While replacing the tire, he heard a thumping sound and saw a large reptilian creature running toward him from across a field. The creature was approximately 7 feet tall with green scaly skin, red glowing eyes, and three-fingered hands with black claws. Davis jumped into his car, but the creature jumped onto the roof and tried to get in through the windows. Davis accelerated and the creature fell off after traveling about a mile. The car showed scratch marks and damage to the chrome molding. Davis passed a polygraph test administered by the Sheriff's department.",
-        "conditions": {
-          "weather": "Clear",
-          "visibility": "Dark (2 AM)",
-          "time_of_day": "Early morning",
-          "duration": "Several minutes"
-        },
-        "evidence": [
-          "Physical damage to vehicle",
-          "Scratch marks on car body",
-          "Polygraph test results",
-          "Sheriff's department investigation"
-        ],
-        "credibility": {
-          "rating": "medium",
-          "factors": [
-            "Witness passed polygraph",
-            "Physical evidence documented",
-            "No prior history of false reports",
-            "Single witness account",
-            "Occurred in isolated location at night"
-          ],
-          "notes": "Most famous and well-documented Lizard Man encounter. Generated national media coverage."
-        },
-        "sources": [
-          "Lee County Sheriff's Office Report, June 1988",
-          "The State (Columbia, SC) newspaper coverage",
-          "Multiple national news outlets"
-        ],
-        "featured": true
-      },
-      {
-        "id": "lizardman-sighting-1988-wells",
-        "name": "George and Tina Wells Encounter",
-        "date": {
-          "value": "1988-07-14",
-          "precision": "approximate"
-        },
-        "location": {
-          "description": "Home near Browntown",
-          "country": "United States",
-          "region": "South Carolina",
-          "locality": "Lee County",
-          "coordinates": {
-            "latitude": 34.2300,
-            "longitude": -80.2500,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 2,
-          "types": ["Residents"],
-          "credibility_factors": ["Physical damage documented", "Multiple witnesses"]
-        },
-        "description": "George and Tina Wells discovered their 1985 Ford LTD extensively damaged. The chrome molding was torn off, scratch marks covered the body, and the hood ornament was ripped off. They reported seeing a large reptilian creature near their vehicle the previous night. The damage was consistent with other reports from the area.",
-        "conditions": {
-          "weather": "Clear",
-          "visibility": "Night",
-          "time_of_day": "Evening/night",
-          "duration": "Brief sighting"
-        },
-        "evidence": [
-          "Extensive vehicle damage",
-          "Photos of scratches and torn components",
-          "Sheriff's department documentation"
-        ],
-        "credibility": {
-          "rating": "medium",
-          "factors": [
-            "Physical damage documented",
-            "Consistent with other reports",
-            "Multiple witnesses",
-            "Possible vandalism explanation"
-          ],
-          "notes": "Part of the wave of July-August 1988 encounters."
-        },
-        "sources": [
-          "Lee County Sheriff's Office",
-          "Local newspaper reports"
-        ],
-        "featured": true
-      },
-      {
-        "id": "lizardman-sighting-1988-waye",
-        "name": "Kenneth Orr Encounter",
-        "date": {
-          "value": "1988-08",
-          "precision": "approximate"
-        },
-        "location": {
-          "description": "Near Scape Ore Swamp",
-          "country": "United States",
-          "region": "South Carolina",
-          "locality": "Lee County",
-          "coordinates": {
-            "latitude": 34.2154,
-            "longitude": -80.2481,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Motorist"],
-          "credibility_factors": ["Sheriff investigation", "Consistent description"]
-        },
-        "description": "Radio station employee Kenneth Orr reported his car being attacked by the creature while driving near Scape Ore Swamp. Description matched the Davis encounter: 7-foot tall reptilian with red eyes and three-fingered claws.",
-        "conditions": {
-          "weather": "Unknown",
-          "visibility": "Night",
-          "time_of_day": "Evening",
-          "duration": "Brief"
-        },
-        "evidence": [
-          "Witness testimony",
-          "Vehicle damage reported"
-        ],
-        "credibility": {
-          "rating": "low-medium",
-          "factors": [
-            "Occurred during height of media attention",
-            "Limited corroboration",
-            "Consistent description"
-          ],
-          "notes": "Part of the August 1988 wave of reports."
-        },
-        "sources": [
-          "Local news reports",
-          "Sheriff's department records"
-        ],
-        "featured": false
-      }
-    ],
+    "notable": [],
     "database_path": "./sightings/"
   },
-
   "evidence": {
-    "physical": [
-      {
-        "id": "lizardman-evidence-footprints",
-        "type": "footprints",
-        "name": "Three-toed footprints",
-        "date": "1988-08",
-        "description": "Three-toed footprints discovered in various locations around Scape Ore Swamp. Approximately 14 inches long with distinctive three-toe pattern.",
-        "location": "Multiple locations near Scape Ore Swamp",
-        "status": "disputed",
-        "analysis": "Sheriff's department investigated. Some experts suggested hoax potential. Casts were made but no definitive biological analysis completed.",
-        "source": "Lee County Sheriff's Office"
-      },
-      {
-        "id": "lizardman-evidence-vehicle-damage",
-        "type": "physical damage",
-        "name": "Vehicle damage evidence",
-        "date": "1988-07-08",
-        "description": "Multiple vehicles showed scratches, torn chrome molding, removed side mirrors, and claw-like marks consistent across reports.",
-        "location": "Various locations in Lee County",
-        "status": "disputed",
-        "analysis": "Damage documented by law enforcement. Could be consistent with large animal or deliberate vandalism.",
-        "source": "Sheriff's department reports and photographs"
-      }
-    ],
-    "photographic": [
-      {
-        "id": "lizardman-evidence-damage-photos",
-        "type": "photographs",
-        "name": "Vehicle damage photographs",
-        "date": "1988-07-08",
-        "description": "Photos of scratched vehicles, torn chrome, and claw marks",
-        "status": "documented",
-        "analysis": "Physical damage confirmed but origin disputed",
-        "source": "Lee County Sheriff's Office, news media"
-      }
-    ],
+    "physical": [],
+    "photographic": [],
     "video": [],
     "audio": [],
-    "trace": [
-      {
-        "id": "lizardman-evidence-hair",
-        "type": "hair/scale samples",
-        "name": "Alleged scale samples",
-        "description": "Unverified reports of scale-like material found at sighting locations",
-        "status": "unverified",
-        "analysis": "No professional analysis completed"
-      }
-    ]
+    "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Dimensional being",
-        "description": "Theory that the Lizard Man appears from another dimension, explaining sudden appearance and disappearance",
-        "proponents": ["Various paranormal researchers"],
-        "evidence_cited": ["Limited sighting window", "No capture or body found", "Abrupt end to sightings"]
-      }
-    ],
-    "scientific": [
-      {
-        "name": "Unknown reptilian species",
-        "description": "Surviving population of large bipedal reptile, possibly related to ancient species",
-        "proponents": ["Some cryptozoologists"],
-        "evidence_cited": ["Consistent descriptions", "Physical evidence", "Swamp habitat suitable for reptilian life"]
-      },
-      {
-        "name": "Escaped exotic pet",
-        "description": "Large reptile (monitor lizard or similar) that escaped and was misidentified",
-        "proponents": ["Skeptical researchers"],
-        "evidence_cited": ["Exotic pet trade in 1980s", "Monitor lizards can reach large size", "Limited geographic range"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Mass hysteria/copycat reports",
-        "description": "Initial report triggered wave of copycat sightings and hoaxes",
-        "proponents": ["Sheriff Liston Truesdale", "Joe Nickell"],
-        "evidence_cited": ["Timing of reports during media coverage", "Some admitted hoaxes", "Rapid decline after media attention waned"]
-      },
-      {
-        "name": "Teenage hoax/prank",
-        "description": "Elaborate hoax by teenagers using costume, possibly including the Davis report",
-        "proponents": ["Skeptical investigators"],
-        "evidence_cited": ["Age of primary witness", "Timing at 2 AM", "No subsequent reliable evidence", "No physical capture"]
-      },
-      {
-        "name": "Misidentified bear",
-        "description": "Black bear standing upright misidentified in poor lighting conditions",
-        "proponents": ["Wildlife experts"],
-        "evidence_cited": ["Bears present in area", "Can stand 7 feet tall", "Poor visibility conditions in most reports"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
       "traditions": [],
       "stories": [],
-      "beliefs": "The Lizard Man lacks deep folklore roots and represents a distinctly modern phenomenon emerging in 1988."
-    },
-    "indigenous": {
-      "cultures": [],
-      "significance": "No known Indigenous traditions directly related to reptilian humanoids in this region.",
-      "sensitivity_note": "This is a modern phenomenon without established Indigenous connections."
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "\"Lizard Man: The True Story of a Monster in South Carolina\" by Mark Sides (2016)",
-        "Various magazine articles in Fortean Times, Weird NJ",
-        "Featured in cryptozoology encyclopedias"
-      ],
-      "film_tv": [
-        "Featured in MonsterQuest (History Channel)",
-        "Destination Truth investigation (Syfy)",
-        "Various paranormal documentary series",
-        "The X-Files (possible inspiration for episodes)"
-      ],
-      "games": [
-        "Reference in various cryptid-themed games"
-      ],
-      "other": [
-        "Lizard Man statue in Bishopville",
-        "Annual Lizard Man Festival",
-        "Local tourism industry",
-        "T-shirts, merchandise in Bishopville area"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Lyle Blackburn",
-        "affiliation": "Author and cryptozoologist",
-        "contribution": "Documented Lizard Man case in books on American cryptids",
-        "period": "2000s-present"
-      },
-      {
-        "name": "Sheriff Liston Truesdale",
-        "affiliation": "Lee County Sheriff's Office",
-        "contribution": "Led official investigation in 1988, ultimately expressed skepticism",
-        "period": "1988"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "BFRO (Bigfoot Field Researchers Organization)",
-        "url": "https://www.bfro.net",
-        "focus": "Maintains database including some Lizard Man reports"
-      }
-    ],
-    "ongoing_studies": "Limited active research. Primarily historical case study in cryptozoology. Occasional amateur investigations during anniversary years."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "sides-2016",
-      "type": "book",
-      "title": "Lizard Man: The True Story of a Monster in South Carolina",
-      "authors": ["Mark Sides"],
-      "publication": "CreateSpace",
-      "date": "2016",
-      "isbn": "978-1530288106"
-    },
-    {
-      "id": "blackburn-2013",
-      "type": "book",
-      "title": "Beyond Boggy Creek: In Search of the Southern Sasquatch",
-      "authors": ["Lyle Blackburn"],
-      "publication": "Anomalist Books",
-      "date": "2013",
-      "isbn": "978-1938398094"
-    },
-    {
-      "id": "state-1988",
-      "type": "newspaper",
-      "title": "The State newspaper coverage",
-      "publication": "Columbia, SC",
-      "date": "1988-07 through 1988-09"
-    }
-  ]
+  "sources": []
 }
